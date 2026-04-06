@@ -1,0 +1,27 @@
+{
+  "name": "smsaero-test-mobileid-sdk",
+  "version": "1.0.0",
+  "description": "MobileID phone verification SDK",
+  "main": "mobileid-sdk.js",
+  "module": "mobileid-sdk.esm.js",
+  "types": "mobileid-sdk.d.ts",
+  "files": [
+    "mobileid-sdk.js",
+    "mobileid-sdk.esm.js",
+    "mobileid-sdk.d.ts"
+  ],
+  "keywords": [
+    "mobileid",
+    "phone",
+    "verification",
+    "sms",
+    "otp",
+    "sdk"
+  ],
+  "author": "smsaero.ru",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
