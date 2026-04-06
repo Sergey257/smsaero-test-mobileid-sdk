@@ -5,7 +5,7 @@ JS SDK для верификации телефона через MobileID.
 ## Установка
 
 ```bash
-npm install mobileid-sdk
+npm i smsaero-test-mobileid-sdk
 ```
 
 ```js
